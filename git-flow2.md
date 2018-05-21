@@ -78,6 +78,8 @@ feature ブランチ以外も同様に作成可能。
 
 publish コマンドを使う。
 
+リモートにブランチをプッシュする
+
 ```
 $ git flow feature publish myfeat
 ```
