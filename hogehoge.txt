@@ -8,3 +8,5 @@ rebase 3
 rebase 4
 rebase 5
 rebase 6
+
+gitnow i
